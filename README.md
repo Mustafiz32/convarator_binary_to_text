@@ -1,1 +1,1 @@
-# convarator_binary_to_text
+# convarator_text_to_bainary
